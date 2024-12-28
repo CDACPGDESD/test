@@ -1,6 +1,6 @@
 # Define two numbers
-num1 = 10
-num2 = 5
+num1 = int(input("Enter the num1 : "))
+num2 = int(input("Enter the num2 : "))
 
 # Add the two numbers
 sum = num1 + num2
