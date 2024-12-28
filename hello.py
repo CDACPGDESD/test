@@ -1,4 +1,5 @@
 print("Hello, World!")
 print("2nd commit")
 print("3rd commit")
-printf("4th commit")
+print("4th commit")
+print("5th commit")
